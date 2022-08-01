@@ -1,0 +1,3 @@
+D:/Professional/Polito/System and Device Programming/Project/Repository/graph-coloring/build/CMakeFiles/graph_coloring.dir
+D:/Professional/Polito/System and Device Programming/Project/Repository/graph-coloring/build/CMakeFiles/ALL_BUILD.dir
+D:/Professional/Polito/System and Device Programming/Project/Repository/graph-coloring/build/CMakeFiles/ZERO_CHECK.dir

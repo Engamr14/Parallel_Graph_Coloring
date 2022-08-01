@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\graph\Graph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\Parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\DimacsParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\Dimacs10Parser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\FastParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\SequentialSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\LubySolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\JonesSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\SDLSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\LDFSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\FVFSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\RandomSelectionSolver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\benchmark\Benchmark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\benchmark\MemoryMonitor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\Serializer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\graph\Graph.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\Parser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\DimacsParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\Dimacs10Parser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\FastParser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\Solver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\SequentialSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\LubySolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\JonesSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\SDLSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\LDFSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\FVFSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\solve\RandomSelectionSolver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\benchmark\Benchmark.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\benchmark\MemoryMonitor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\utils\PCVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\utils\span-lite.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\utils\RangeSplitter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\parse\Serializer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{BE00CF43-B841-34F3-9A13-5D9F105F9E83}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{F5D08067-86EA-345A-994B-42C8DBAD2C7A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

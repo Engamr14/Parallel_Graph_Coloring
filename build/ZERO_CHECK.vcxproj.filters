@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Professional\Polito\System and Device Programming\Project\Repository\graph-coloring\build\CMakeFiles\66369ce54abe27cfefbab55263453b23\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{02589B80-FCA7-3EF5-8BA7-36AFE645AC53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
