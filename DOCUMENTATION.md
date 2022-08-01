@@ -1,6 +1,6 @@
 <h1 align="center">Parallel Graph Coloring</h1>
 
-This project investigates the implementation of several parallel algorithms for graph coloring and compares them to a well-known sequential algorithm in terms of time and memory.
+This project investigates the implementation of several parallel algorithms for graph coloring and compares them to a well-known sequential algorithm in terms of time consumption, memory consumption, colors consumption. Also, two new algorithms are introduced in this comparison.
 
 # Introduction to graph coloring
 In discrete mathematics, a graph is a structure consists of nodes called “Vertices” and links between these nodes called “Edges”. There are two main types of a graph, which are undirected graph and directed graphs, where an edge between 2 vertices has a direction. However, in our scope we focus only on undirected graphs.
